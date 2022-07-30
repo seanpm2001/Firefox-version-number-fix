@@ -1,406 +1,1085 @@
 
 ***
 
-# <projectName>
+# Firefox incremental version number changelog
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+## Context
 
-# By:
+Mozilla Firefox and Google Chrome have been at it for over a decade in a pointless battle of who has the bigger version number. This document classifies the last 18 years of Firefox development, and allows translation into a much more reasonable version number
 
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
+## Firefox 5-10
 
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
 
+_Firefox 5-10 : 4.0, 4.1, 4.1.1, 4.1, etc (first full non-small release set)_
 
-### Top
+> Firefox 4.0 -> Firefox 4.0
 
-# `README.md`
+> Firefox 4.0.1 -> Firefox 4.0.1
+
+> Firefox 5.0 -> Firefox 4.1.1
+
+> Firefox 5.0.1 -> Firefox 4.1.2
+
+> Firefox 6.0 -> Firefox 4.2.1
+
+> Firefox 6.0.1 -> Firefox 4.2.2
+
+> Firefox 6.0.2 -> Firefox 4.2.3
+
+> Firefox 7.0 -> Firefox 4.3.0
+
+> Firefox 7.0.1 -> Firefox 4.3.1
+
+> Firefox 8.0 -> Firefox 4.4.0
+
+> Firefox 8.0.1 -> Firefox 4.4.1
+
+> Firefox 9.0 -> Firefox 4.5.0
+
+> Firefox 9.0.1 -> Firefox 4.5.1
+
+> Firefox 10.0 -> Firefox 4.6
+
+> Firefox 10.0.1 -> Firefox 4.6.1
+
+> Firefox 10.0.2 -> Firefox 4.6.2
+
+> Firefox 10.0ESR -> Firefox 4.6ESR
+
+> Firefox 10.0.1ESR -> Firefox 4.6.1ESR
+
+> Firefox 10.0.2ESR -> Firefox 4.6.2ESR
+
+> Firefox 10.0.3ESR -> Firefox 4.6.3ESR
+
+> Firefox 10.0.4ESR -> Firefox 4.6.4ESR
+
+> Firefox 10.0.5ESR -> Firefox 4.6.5ESR
+
+> Firefox 10.0.6ESR -> Firefox 4.6.6ESR
+
+> Firefox 10.0.7ESR -> Firefox 4.6.7ESR
+
+> Firefox 10.0.8ESR -> Firefox 4.6.8ESR
+
+> Firefox 10.0.9ESR -> Firefox 4.6.9ESR
+
+> Firefox 10.0.10ESR -> Firefox 4.6.10ESR
+
+> Firefox 10.0.11ESR -> Firefox 4.6.11ESR
+
+> Firefox 10.0.12ESR -> Firefox 4.6.12ESR
+
+</details>
+
+## Firefox 11-22
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+_5.0, 5.1, 5.1.1, 5.2, etc (new 3D webpage inspector, other improvements)_
+
+> Firefox 11.0 -> Firefox 5.0
+
+> Firefox 12.0 -> Firefox 5.1.0
+
+> Firefox 13.0 -> Firefox 5.2.0
+
+> Firefox 13.0.1 -> Firefox 5.2.1
+
+> Firefox 14.0 -> Firefox 5.3.0
+
+> Firefox 14.0.1 -> Firefox 5.3.1
+
+> Firefox 15.0 -> Firefox 5.4.0
+
+> Firefox 15.0.1 -> Firefox 5.4.1
+
+> Firefox 16.0 -> Firefox 5.5.0
+
+> Firefox 16.0.1 -> Firefox 5.5.1
+
+> Firefox 16.0.2 -> Firefox 5.5.2
+
+> Firefox 17.0 -> Firefox 5.6
+
+> Firefox 17.0.1 -> Firefox 5.6.1
+
+> Firefox 17.0ESR -> Firefox 5.6ESR
+
+> Firefox 17.0.1ESR -> Firefox 5.6.1ESR
+
+> Firefox 17.0.2ESR -> Firefox 5.6.2ESR
+
+> Firefox 17.0.3ESR -> Firefox 5.6.3ESR
+
+> Firefox 17.0.4ESR -> Firefox 5.6.4ESR
+
+> Firefox 17.0.5ESR -> Firefox 5.6.5ESR
+
+> Firefox 17.0.6ESR -> Firefox 5.6.6ESR
+
+> Firefox 17.0.7ESR -> Firefox 5.6.7ESR
+
+> Firefox 17.0.8ESR -> Firefox 5.6.8ESR
+
+> Firefox 17.0.9ESR -> Firefox 5.6.9ESR
+
+> Firefox 17.0.10ESR -> Firefox 5.6.10ESR
+
+> Firefox 17.0.11ESR -> Firefox 5.6.11ESR
+
+> Firefox 18.0 -> Firefox 5.7
+
+> Firefox 18.0.1 -> Firefox 5.7.1
+
+> Firefox 18.0.2 -> Firefox 5.7.2
+
+> Firefox 19.0 -> Firefox 5.8
+
+> Firefox 19.0.1 -> Firefox 5.8.1
+
+> Firefox 19.0.2 -> Firefox 5.8.2
+
+> Firefox 20.0 -> Firefox 5.9
+
+> Firefox 20.0.1 -> Firefox 5.9.1
+
+> Firefox 21.0 -> Firefox 5.10
+
+> Firefox 22.0 -> Firefox 5.11
+
+</details>
+
+## Firefox 23-28
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+_6.0, 6.1, 6.2, etc. (logo change, deprecations)_
+
+> Firefox 23.0 -> Firefox 6.0
+
+> Firefox 23.0.1 -> Firefox 6.0.1
+
+> Firefox 24.0 -> Firefox 6.1
+
+> Firefox 24.0ESR -> Firefox 6.1ESR
+
+> Firefox 24.1.0ESR -> Firefox 6.1.1ESR
+
+> Firefox 24.1.1ESR -> Firefox 6.1.2ESR
+
+> Firefox 24.2.0ESR -> Firefox 6.1.3ESR
+
+> Firefox 24.3.0ESR -> Firefox 6.1.4ESR
+
+> Firefox 24.4.0ESR -> Firefox 6.1.5ESR
+
+> Firefox 24.5.0ESR -> Firefox 6.1.6ESR
+
+> Firefox 24.6.0ESR -> Firefox 6.1.7ESR
+
+> Firefox 24.7.0ESR -> Firefox 6.1.8ESR
+
+> Firefox 24.8.0ESR -> Firefox 6.1.9ESR
+
+> Firefox 24.8.1ESR -> Firefox 6.1.9.1ESR
+
+> Firefox 25.0 -> Firefox 6.2
+
+> Firefox 25.0.1 -> Firefox 6.2.1
+
+> Firefox 26.0 -> Firefox 6.3.0
+
+> Firefox 26.1 -> Firefox 6.3.1
+
+> Firefox 27.0 -> Firefox 6.4.0
+
+> Firefox 27.1 -> Firefox 6.4.1
+
+> Firefox 28.0 -> Firefox 6.5.0
+
+> Firefox 28.1 -> Firefox 6.5.1
+
+</details>
+
+## Firefox 29-46
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+_7.0, 7.1, 7.2, etc. (improvements, Australis theme)_
+
+> Firefox 29.0 -> Firefox 7.0
+
+> Firefox 29.0.1 -> Firefox 7.0.1
+
+> Firefox 30.0 -> Firefox 7.1
+
+> Firefox 31.0 -> Firefox 7.2
+
+> Firefox 31.0ESR -> Firefox 7.2ESR
+
+> Firefox 31.1.0ESR -> Firefox 7.2.1ESR
+
+> Firefox 31.1.1ESR -> Firefox 7.2.1.1ESR
+
+> Firefox 31.2.0ESR -> Firefox 7.2.2ESR
+
+> Firefox 31.3.0ESR -> Firefox 7.2.3ESR
+
+> Firefox 31.4.0ESR -> Firefox 7.2.4ESR
+
+> Firefox 31.5.0ESR -> Firefox 7.2.5ESR
+
+> Firefox 31.5.2ESR -> Firefox 7.2.5.1ESR
+
+> Firefox 31.5.3ESR -> Firefox 7.2.5.2ESR
+
+> Firefox 31.6.0ESR -> Firefox 7.2.6ESR
+
+> Firefox 31.7.0ESR -> Firefox 7.2.7ESR
+
+> Firefox 31.8.0ESR -> Firefox 7.2.8ESR
+
+> Firefox 32.0 -> Firefox 7.3
+
+> Firefox 32.0.1 -> Firefox 7.3.1
+
+> Firefox 32.0.2 -> Firefox 7.3.2
+
+> Firefox 32.0.3 -> Firefox 7.3.3
+
+> Firefox 33.0 -> Firefox 7.4
+
+> Firefox 33.0.1 -> Firefox 7.4.1
+
+> Firefox 33.0.2 -> Firefox 7.4.2
+
+> Firefox 33.0.3 -> Firefox 7.4.3
+
+> Firefox 33.1.0 -> Firefox 7.4.3.1
+
+> Firefox 33.1.1 -> Firefox 7.4.3.2
+
+> Firefox 34.0 -> Firefox 7.5
+
+> Firefox 34.0.5 -> Firefox 7.5.1
+
+> Firefox 35.0 -> Firefox 7.6
+
+> Firefox 35.0.1 -> Firefox 7.6.1
+
+> Firefox 36.0 -> Firefox 7.7
+
+> Firefox 36.0.1 -> Firefox 7.7.1
+
+> Firefox 36.0.2 -> Firefox 7.7.2
+
+> Firefox 36.0.3 -> Firefox 7.7.3
+
+> Firefox 36.0.4 -> Firefox 7.7.4
+
+> Firefox 37.0 -> Firefox 7.8
+
+> Firefox 37.0.1 -> Firefox 7.8.1
+
+> Firefox 37.0.2 -> Firefox 7.8.2
+
+> Firefox 38.0 -> Firefox 7.9
+
+> Firefox 38.0.1 -> Firefox 7.9.1
+
+> Firefox 38.0.5 -> Firefox 7.9.2
+
+> Firefox 38.0.6 -> Firefox 7.9.3
+
+> Firefox 38.0ESR -> Firefox 7.9ESR
+
+> Firefox 38.0.1ESR -> Firefox 7.9.1ESR
+
+> Firefox 38.1.0ESR -> Firefox 7.9.2ESR
+
+> Firefox 38.1.1ESR -> Firefox 7.9.2.1ESR
+
+> Firefox 38.2.0ESR -> Firefox 7.9.3ESR
+
+> Firefox 38.2.1ESR -> Firefox 7.9.3.1ESR
+
+> Firefox 38.3.0ESR -> Firefox 7.9.4ESR
+
+> Firefox 38.4.0ESR -> Firefox 7.9.5ESR
+
+> Firefox 38.5.0ESR -> Firefox 7.9.6ESR
+
+> Firefox 38.5.1ESR -> Firefox 7.9.6.1ESR
+
+> Firefox 38.6.0ESR -> Firefox 7.9.7ESR
+
+> Firefox 38.6.1ESR -> Firefox 7.9.7.1ESR
+
+> Firefox 38.7.0ESR -> Firefox 7.9.8ESR
+
+> Firefox 38.7.1ESR -> Firefox 7.9.8.1ESR
+
+> Firefox 38.8.0ESR -> Firefox 7.9.9ESR
+
+> Firefox 39.0 -> Firefox 7.10
+
+> Firefox 39.0.3 -> Firefox 7.10.1
+
+> Firefox 40.0 -> Firefox 7.11
+
+> Firefox 40.0.2 -> Firefox 7.11.1
+
+> Firefox 40.0.3 -> Firefox 7.11.2
+
+> Firefox 41.0 -> Firefox 7.12
+
+> Firefox 41.0.1 -> Firefox 7.12.1
+
+> Firefox 41.0.2 -> Firefox 7.12.2
+
+> Firefox 42.0 -> Firefox 7.13
+
+> Firefox 43.0 -> Firefox 7.14
+
+> Firefox 43.0.1 -> Firefox 7.14.1
+
+> Firefox 43.0.2 -> Firefox 7.14.2
+
+> Firefox 43.0.3 -> Firefox 7.14.3
+
+> Firefox 43.0.4 -> Firefox 7.14.4
+
+> Firefox 44.0 -> Firefox 7.15
+
+> Firefox 44.0.1 -> Firefox 7.15.1
+
+> Firefox 44.0.2 -> Firefox 7.15.2
+
+> Firefox 45.0 -> Firefox 7.16
+
+> Firefox 45.0.1 -> Firefox 7.16.1
+
+> Firefox 45.0.2 -> Firefox 7.16.2
+
+> Firefox 45.0ESR -> Firefox 7.16ESR
+
+> Firefox 45.0.1ESR -> Firefox 7.16.1ESR
+
+> Firefox 45.0.2ESR -> Firefox 7.16.2ESR
+
+> Firefox 45.1.0ESR -> Firefox 7.16.3ESR
+
+> Firefox 45.1.1ESR -> Firefox 7.16.3.1ESR
+
+> Firefox 45.2.0ESR -> Firefox 7.16.4ESR
+
+> Firefox 45.3.0ESR -> Firefox 7.16.5ESR
+
+> Firefox 45.4.0ESR -> Firefox 7.16.6ESR
+
+> Firefox 45.5.0ESR -> Firefox 7.16.7ESR
+
+> Firefox 45.5.1ESR -> Firefox 7.16.7.1ESR
+
+> Firefox 45.6.0ESR -> Firefox 7.16.8ESR
+
+> Firefox 45.7.0ESR -> Firefox 7.16.9ESR
+
+> Firefox 45.8.0ESR -> Firefox 7.16.10ESR
+
+> Firefox 45.9.0ESR -> Firefox 7.16.11ESR
+
+> Firefox 46.0 -> Firefox 7.17
+
+> Firefox 46.0.1 -> Firefox 7.17.1
+
+</details>
+
+## Firefox 47-56
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+_8.0, 8.1, 8.2, etc. (improvements, deprecation of 3D source viewer, logo change)_
+
+> Firefox 47.0 -> Firefox 8.0
+
+> Firefox 47.0.1 -> Firefox 8.0.1
+
+> Firefox 47.0.2 -> Firefox 8.0.2
+
+> Firefox 48.0 -> Firefox 8.1
+
+> Firefox 48.0.1 -> Firefox 8.1.1
+
+> Firefox 48.0.2 -> Firefox 8.1.2
+
+> Firefox 49.0 -> Firefox 8.2
+
+> Firefox 49.0.1 -> Firefox 8.2.1
+
+> Firefox 49.0.2 -> Firefox 8.2.2
+
+> Firefox 50.0 -> Firefox 8.3
+
+> Firefox 50.0.1 -> Firefox 8.3.1
+
+> Firefox 50.0.2 -> Firefox 8.3.2
+
+> Firefox 50.1.0 -> Firefox 8.3.2.1
+
+> Firefox 51.0 -> Firefox 8.4
+
+> Firefox 51.0.1 -> Firefox 8.4.1
+
+> Firefox 51.0.2 -> Firefox 8.4.2
+
+> Firefox 51.1.0 -> Firefox 8.4.3
+
+> Firefox 52.0 -> Firefox 8.5
+
+> Firefox 52.0.1 -> Firefox 8.5.1
+
+> Firefox 52.0.2 -> Firefox 8.5.2
+
+> Firefox 52.0ESR -> Firefox 8.5ESR
+
+> Firefox 52.0.1ESR -> Firefox 8.5.1ESR
+
+> Firefox 52.0.2ESR -> Firefox 8.5.2ESR
+
+> Firefox 52.1.0ESR -> Firefox 8.5.3ESR
+
+> Firefox 52.1.1ESR -> Firefox 8.5.3.1ESR
+
+> Firefox 52.1.2ESR -> Firefox 8.5.3.2ESR
+
+> Firefox 52.2.0ESR -> Firefox 8.5.4ESR
+
+> Firefox 52.2.1ESR -> Firefox 8.5.4.1ESR
+
+> Firefox 52.3.0ESR -> Firefox 8.5.5ESR
+
+> Firefox 52.4.0ESR -> Firefox 8.5.6ESR
+
+> Firefox 52.4.1ESR -> Firefox 8.5.6.1ESR
+
+> Firefox 52.5.0ESR -> Firefox 8.5.7ESR
+
+> Firefox 52.5.2ESR -> Firefox 8.5.7.1ESR
+
+> Firefox 52.5.3ESR -> Firefox 8.5.7.2ESR
+
+> Firefox 52.6.0ESR -> Firefox 8.5.8ESR
+
+> Firefox 52.7.0ESR -> Firefox 8.5.9ESR
+
+> Firefox 52.7.1ESR -> Firefox 8.5.9.1ESR
+
+> Firefox 52.7.2ESR -> Firefox 8.5.9.2ESR
+
+> Firefox 52.7.3ESR -> Firefox 8.5.9.3ESR
+
+> Firefox 52.7.4ESR -> Firefox 8.5.9.4ESR
+
+> Firefox 52.8.0ESR -> Firefox 8.5.10ESR
+
+> Firefox 52.8.1ESR -> Firefox 8.5.10.1ESR
+
+> Firefox 52.9.0ESR -> Firefox 8.5.11ESR
+
+> Firefox 53.0 -> Firefox 8.6
+
+> Firefox 53.0.1 -> Firefox 8.6.1
+
+> Firefox 53.0.2 -> Firefox 8.6.2
+
+> Firefox 53.0.3 -> Firefox 8.6.3
+
+> Firefox 54.0 -> Firefox 8.7
+
+> Firefox 54.0.1 -> Firefox 8.7.1
+
+> Firefox 55.0 -> Firefox 8.8
+
+> Firefox 55.0.1 -> Firefox 8.8.1
+
+> Firefox 55.0.2 -> Firefox 8.8.2
+
+> Firefox 55.0.3 -> Firefox 8.8.3
+
+> Firefox 56.0 -> Firefox 8.9
+
+> Firefox 56.0.1 -> Firefox 8.9.1
+
+> Firefox 56.0.2 -> Firefox 8.9.2
+
+</details>
+
+## Firefox 57-69
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+_9.0, 9.1, 9.2, etc. (mass improvements, Firefox quantum)_
+
+> Firefox 57.0 -> Firefox 9.0
+
+> Firefox 57.0.1 -> Firefox 9.0.1
+
+> Firefox 57.0.2 -> Firefox 9.0.2
+
+> Firefox 57.0.3 -> Firefox 9.0.3
+
+> Firefox 57.0.4 -> Firefox 9.0.4
+
+> Firefox 58.0 -> Firefox 9.1
+
+> Firefox 58.0.1 -> Firefox 9.1.1
+
+> Firefox 58.0.2 -> Firefox 9.1.2
+
+> Firefox 59.0 -> Firefox 9.2
+
+> Firefox 59.0.1 -> Firefox 9.2.1
+
+> Firefox 59.0.2 -> Firefox 9.2.2
+
+> Firefox 59.0.3 -> Firefox 9.2.3
+
+> Firefox 60.0 -> Firefox 9.3
+
+> Firefox 60.0.1 -> Firefox 9.3.1
+
+> Firefox 60.0.2 -> Firefox 9.3.2
+
+> Firefox 60.0ESR -> Firefox 9.3ESR
+
+> Firefox 60.0.1ESR -> Firefox 9.3.1ESR
+
+> Firefox 60.0.2ESR -> Firefox 9.3.2ESR
+
+> Firefox 60.1.0ESR -> Firefox 9.3.3ESR
+
+> Firefox 60.2.0ESR -> Firefox 9.3.4ESR
+
+> Firefox 60.2.1ESR -> Firefox 9.3.4.1ESR
+
+> Firefox 60.2.2ESR -> Firefox 9.3.4.2ESR
+
+> Firefox 60.3.0ESR -> Firefox 9.3.5ESR
+
+> Firefox 60.4.0ESR -> Firefox 9.3.6ESR
+
+> Firefox 60.5.0ESR -> Firefox 9.3.7ESR
+
+> Firefox 60.5.1ESR -> Firefox 9.3.7.1ESR
+
+> Firefox 60.5.2ESR -> Firefox 9.3.7.2ESR
+
+> Firefox 60.6.0ESR -> Firefox 9.3.8ESR
+
+> Firefox 60.6.1ESR -> Firefox 9.3.8.1ESR
+
+> Firefox 60.6.2ESR -> Firefox 9.3.8.2ESR
+
+> Firefox 60.6.3ESR -> Firefox 9.3.8.3ESR
+
+> Firefox 60.7.0ESR -> Firefox 9.3.9ESR
+
+> Firefox 60.7.1ESR -> Firefox 9.3.9.1ESR
+
+> Firefox 60.7.2ESR -> Firefox 9.3.9.2ESR
+
+> Firefox 60.8.0ESR -> Firefox 9.3.10ESR
+
+> Firefox 60.9.0ESR -> Firefox 9.3.11ESR
+
+> Firefox 61.0 -> Firefox 9.4
+
+> Firefox 61.0.1 -> Firefox 9.4.1
+
+> Firefox 61.0.2 -> Firefox 9.4.2
+
+> Firefox 62.0 -> Firefox 9.5
+
+> Firefox 62.0.1 -> Firefox 9.5.1
+
+> Firefox 62.0.2 -> Firefox 9.5.2
+
+> Firefox 62.0.3 -> Firefox 9.5.3
+
+> Firefox 63.0 -> Firefox 9.6
+
+> Firefox 63.0.1 -> Firefox 9.6.1
+
+> Firefox 63.0.2 -> Firefox 9.6.2
+
+> Firefox 63.0.3 -> Firefox 9.6.3
+
+> Firefox 64.0 -> Firefox 9.7
+
+> Firefox 64.0.1 -> Firefox 9.7.1
+
+> Firefox 64.0.2 -> Firefox 9.7.2
+
+> Firefox 65.0 -> Firefox 9.8
+
+> Firefox 65.0.1 -> Firefox 9.8.1
+
+> Firefox 65.0.2 -> Firefox 9.8.2
+
+> Firefox 66.0 -> Firefox 9.9
+
+> Firefox 66.0.1 -> Firefox 9.9.1
+
+> Firefox 66.0.2 -> Firefox 9.9.2
+
+> Firefox 66.0.3 -> Firefox 9.9.3
+
+> Firefox 66.0.4 -> Firefox 9.9.4
+
+> Firefox 66.0.5 -> Firefox 9.9.5
+
+> Firefox 67.0 -> Firefox 9.10
+
+> Firefox 67.0.1 -> Firefox 9.10.1
+
+> Firefox 67.0.2 -> Firefox 9.10.2
+
+> Firefox 67.0.3 -> Firefox 9.10.3
+
+> Firefox 67.0.4 -> Firefox 9.10.4
+
+> Firefox 68.0 -> Firefox 9.11
+
+> Firefox 68.0.1 -> Firefox 9.11.1
+
+> Firefox 68.0.2 -> Firefox 9.11.2
+
+> Firefox 68.1.0 -> Firefox 9.11.2.1
+
+> Firefox 68.1.1 -> Firefox 9.11.2.2
+
+> Firefox 68.2.0 -> Firefox 9.11.3.0
+
+> Firefox 68.2.1 -> Firefox 9.11.3.1
+
+> Firefox 68.3.0 -> Firefox 9.11.4.0
+
+> Firefox 68.4.0 -> Firefox 9.11.4.1
+
+> Firefox 68.4.1 -> Firefox 9.11.5.0
+
+> Firefox 68.4.2 -> Firefox 9.11.5.1
+
+> Firefox 68.5.0 -> Firefox 9.11.6.0
+
+> Firefox 68.6.0 -> Firefox 9.11.7.0
+
+> Firefox 68.7.0 -> Firefox 9.11.8.0
+
+> Firefox 68.8.0 -> Firefox 9.11.9.0
+
+> Firefox 68.8.1 -> Firefox 9.11.9.1
+
+> Firefox 68.9.0 -> Firefox 9.11.10.0
+
+> Firefox 68.10.0 -> Firefox 9.11.11.0
+
+> Firefox 68.10.1 -> Firefox 9.11.11.1
+
+> Firefox 68.11.0 -> Firefox 9.11.12.0
+
+> Firefox 68.0ESR -> Firefox 9.11ESR
+
+> Firefox 68.0.1ESR -> Firefox 9.11.1ESR
+
+> Firefox 68.0.2ESR -> Firefox 9.11.2ESR
+
+> Firefox 68.1ESR -> Firefox 9.11.3ESR
+
+> Firefox 68.2ESR -> Firefox 9.11.4ESR
+
+> Firefox 68.3ESR -> Firefox 9.11.5ESR
+
+> Firefox 68.4ESR -> Firefox 9.11.6ESR
+
+> Firefox 68.4.1ESR -> Firefox 9.11.6.1ESR
+
+> Firefox 68.4.2ESR -> Firefox 9.11.6.1ESR
+
+> Firefox 68.5ESR -> Firefox 9.11.7ESR
+
+> Firefox 68.5.1ESR -> Firefox 9.11.7.1ESR
+
+> Firefox 68.6.0ESR -> Firefox 9.11.8ESR
+
+> Firefox 68.6.1ESR -> Firefox 9.11.8.1ESR
+
+> Firefox 68.7ESR -> Firefox 9.11.9ESR
+
+> Firefox 68.8ESR -> Firefox 9.11.10ESR
+
+> Firefox 68.9ESR -> Firefox 9.11.11ESR
+
+> Firefox 68.10ESR -> Firefox 9.11.12ESR
+
+> Firefox 68.11ESR -> Firefox 9.11.13ESR
+
+> Firefox 68.12ESR -> Firefox 9.11.14ESR
+
+> Firefox 69.0 -> Firefox 9.12
+
+> Firefox 69.0.1 -> Firefox 9.12.1
+
+> Firefox 69.0.2 -> Firefox 9.12.2
+
+> Firefox 69.0.3 -> Firefox 9.12.3
+
+</details>
+
+## Firefox 70-88
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+_10.0, 10.1, 10.2, etc. (improvements, logo change)_
+
+> Firefox 70.0 -> Firefox 10.0
+
+> Firefox 70.0.1 -> Firefox 10.0.1
+
+> Firefox 71.0 -> Firefox 10.1
+
+> Firefox 72.0 -> Firefox 10.2
+
+> Firefox 72.0.1 -> Firefox 10.2.1
+
+> Firefox 72.0.2 -> Firefox 10.2.2
+
+> Firefox 73.0 -> Firefox 10.3
+
+> Firefox 73.0.1 -> Firefox 10.3.1
+
+> Firefox 74.0 -> Firefox 10.4
+
+> Firefox 74.0.1 -> Firefox 10.4.1
+
+> Firefox 75.0 -> Firefox 10.5
+
+> Firefox 76.0 -> Firefox 10.6
+
+> Firefox 76.0.1 -> Firefox 10.6.1
+
+> Firefox 77.0 -> Firefox 10.7
+
+> Firefox 77.0.1 -> Firefox 10.7.1
+
+> Firefox 78.0 -> Firefox 10.8
+
+> Firefox 78.0.1 -> Firefox 10.8.1
+
+> Firefox 78.0.2 -> Firefox 10.8.2
+
+> Firefox 78.0ESR -> Firefox 10.8.0ESR
+
+> Firefox 78.0.1ESR -> Firefox 10.8.1ESR
+
+> Firefox 78.0.2ESR -> Firefox 10.8.2ESR
+
+> Firefox 78.0ESR -> Firefox 10.8.3ESR
+
+> Firefox 78.0.1ESR -> Firefox 10.8.3.1ESR
+
+> Firefox 78.0.2ESR -> Firefox 10.8.3.2ESR
+
+> Firefox 78.1ESR -> Firefox 10.8.4ESR
+
+> Firefox 78.2ESR -> Firefox 10.8.5ESR
+
+> Firefox 78.3ESR -> Firefox 10.8.6ESR
+
+> Firefox 78.3.1ESR -> Firefox 10.8.6.1ESR
+
+> Firefox 78.4ESR -> Firefox 10.8.7ESR
+
+> Firefox 78.4.1ESR -> Firefox 10.8.7.1ESR
+
+> Firefox 78.5ESR -> Firefox 10.8.8ESR
+
+> Firefox 78.6ESR -> Firefox 10.8.9ESR
+
+> Firefox 78.6.1ESR -> Firefox 10.8.9.1ESR
+
+> Firefox 78.7ESR -> Firefox 10.8.10ESR
+
+> Firefox 78.7.1ESR -> Firefox 10.8.10.1ESR
+
+> Firefox 78.8ESR -> Firefox 10.8.11ESR
+
+> Firefox 78.9ESR -> Firefox 10.8.12ESR
+
+> Firefox 78.10ESR -> Firefox 10.8.13ESR
+
+> Firefox 78.10.1ESR -> Firefox 10.8.13.1ESR
+
+> Firefox 78.11ESR -> Firefox 10.8.14ESR
+
+> Firefox 78.12ESR -> Firefox 10.8.15ESR
+
+> Firefox 78.13ESR -> Firefox 10.8.16ESR
+
+> Firefox 78.14ESR -> Firefox 10.8.17ESR
+
+> Firefox 78.15ESR -> Firefox 10.8.18ESR
+
+> Firefox 79.0 -> Firefox 10.9
+
+> Firefox 80.0 -> Firefox 10.10
+
+> Firefox 80.0.1 -> Firefox 10.10.1
+
+> Firefox 81.0 -> Firefox 10.11
+
+> Firefox 81.0.1 -> Firefox 10.11.1
+
+> Firefox 81.0.2 -> Firefox 10.11.2
+
+> Firefox 82.0 -> Firefox 10.12
+
+> Firefox 82.0.1 -> Firefox 10.12.1
+
+> Firefox 82.0.2 -> Firefox 10.12.2
+
+> Firefox 82.0.3 -> Firefox 10.12.3
+
+> Firefox 83.0 -> Firefox 10.13
+
+> Firefox 84.0 -> Firefox 10.14
+
+> Firefox 84.0.1 -> Firefox 10.14.1
+
+> Firefox 84.0.2 -> Firefox 10.14.2
+
+> Firefox 85.0 -> Firefox 10.15
+
+> Firefox 85.0.1 -> Firefox 10.15.1
+
+> Firefox 85.0.2 -> Firefox 10.15.2
+
+> Firefox 86.0 -> Firefox 10.16
+
+> Firefox 86.0.1 -> Firefox 10.16.1
+
+> Firefox 87.0 -> Firefox 10.17
+
+> Firefox 88.0 -> Firefox 10.18
+
+> Firefox 88.0.1 -> Firefox 10.18.1
+
+</details>
+
+## Firefox 89-103
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+_11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, devolvement, deprecations)_
+
+> Firefox 89.0 -> Firefox 11.0
+
+> Firefox 89.0.1 -> Firefox 11.0.1
+
+> Firefox 89.0.2 -> Firefox 11.0.2
+
+> Firefox 90.0 -> Firefox 11.1
+
+> Firefox 90.0.1 -> Firefox 11.1.1
+
+> Firefox 90.0.2 -> Firefox 11.1.2
+
+> Firefox 91.0 -> Firefox 11.2
+
+> Firefox 91.0.1 -> Firefox 11.2.1
+
+> Firefox 91.0.2 -> Firefox 11.2.2
+
+> Firefox 91.0ESR -> Firefox 11.2ESR
+
+> Firefox 91.0.1ESR -> Firefox 11.2.1ESR
+
+> Firefox 91.1ESR -> Firefox 11.2.2ESR
+
+> Firefox 91.2ESR -> Firefox 11.2.3ESR
+
+> Firefox 91.3ESR -> Firefox 11.2.4ESR
+
+> Firefox 91.4ESR -> Firefox 11.2.5ESR
+
+> Firefox 91.4.1ESR -> Firefox 11.2.5.1ESR
+
+> Firefox 91.5ESR -> Firefox 11.2.6ESR
+
+> Firefox 91.5.1ESR -> Firefox 11.2.6.1ESR
+
+> Firefox 91.6ESR -> Firefox 11.2.7ESR
+
+> Firefox 91.6.1ESR -> Firefox 11.2.7.1ESR
+
+> Firefox 91.7ESR -> Firefox 11.2.8ESR
+
+> Firefox 91.7.1ESR -> Firefox 11.2.8.1ESR
+
+> Firefox 91.8ESR -> Firefox 11.2.9ESR
+
+> Firefox 91.9ESR -> Firefox 11.2.10ESR
+
+> Firefox 91.9.1ESR -> Firefox 11.2.10.1ESR
+
+> Firefox 91.10ESR -> Firefox 11.2.11ESR
+
+> Firefox 91.11ESR -> Firefox 11.2.12ESR
+
+> Firefox 91.12ESR -> Firefox 11.2.13ESR
+
+> Firefox 91.13ESR -> Firefox 11.2.14ESR
+
+> Firefox 92.0 -> Firefox 11.3
+
+> Firefox 92.0.1 -> Firefox 11.3.1
+
+> Firefox 93.0 -> Firefox 11.4
+
+> Firefox 94.0 -> Firefox 11.5
+
+> Firefox 94.0.1 -> Firefox 11.5.1
+
+> Firefox 94.0.2 -> Firefox 11.5.2
+
+> Firefox 95.0 -> Firefox 11.6
+
+> Firefox 95.0.1 -> Firefox 11.6.1
+
+> Firefox 95.0.2 -> Firefox 11.6.2
+
+> Firefox 96.0 -> Firefox 11.7
+
+> Firefox 96.0.1 -> Firefox 11.7.1
+
+> Firefox 96.0.2 -> Firefox 11.7.2
+
+> Firefox 96.0.3 -> Firefox 11.7.3
+
+> Firefox 97.0 -> Firefox 11.8
+
+> Firefox 97.0.1 -> Firefox 11.8.1
+
+> Firefox 97.0.2 -> Firefox 11.8.2
+
+> Firefox 98.0 -> Firefox 11.9
+
+> Firefox 98.0.1 -> Firefox 11.9.1
+
+> Firefox 98.0.2 -> Firefox 11.9.2
+
+> Firefox 99.0 -> Firefox 11.10
+
+> Firefox 99.0.1 -> Firefox 11.10.1
+
+> Firefox 100.0 -> Firefox 11.11
+
+> Firefox 100.0.1 -> Firefox 11.11.1
+
+> Firefox 100.0.2 -> Firefox 11.11.2
+
+> Firefox 101.0 -> Firefox 11.12
+
+> Firefox 101.0.1 -> Firefox 11.12.1
+
+> Firefox 102.0 -> Firefox 11.13
+
+> Firefox 102.0.1 -> Firefox 11.13.1
+
+> Firefox 102.0ESR -> Firefox 11.13.1ESR
+
+> Firefox 102.1ESR -> Firefox 11.13.2ESR
+
+> Firefox 102.2ESR -> Firefox 11.13.3ESR
+
+> Firefox 102.3ESR -> Firefox 11.13.4ESR
+
+> Firefox 102.4ESR -> Firefox 11.13.5ESR
+
+> Firefox 102.5ESR -> Firefox 11.13.6ESR
+
+> Firefox 102.6ESR -> Firefox 11.13.7ESR
+
+> Firefox 103.0 -> Firefox 11.14
+
+</details>
+
+## TODO
+
+- [x] Add ESR support
+- [x] Convert to Markdown
+- [ ] Add separate Android and iOS support
 
 ***
 
-## Read this article in a different language
+### File info
 
-**Sorted by:** `A-Z`
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
+**File version:** `1 (2022, Saturday, July 30th at 3:32 pm PST)`
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/<developerName>/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+**Line count (including blank lines and compiler line):** `1,186`
 
-Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
-Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 
-***
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-# Index
+_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-[00.0 - Top](#Top)
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - History](#History)
-
-> [04.1 - Pre-history](#Pre-history)
-
-> [04.2 - Alpha History](#Alpha-history)
-
-> [04.3 - Beta History](#Beta-history)
-
-> [04.4 - Modern History](#Modern-history)
-
-[05.0 - Copying](#Copying)
-
-[06.0 - Credits](#Credits)
-
-[07.0 - Installation](#Installation)
-
-[08.0 - Version history](#Version-history)
-
-[09.0 - Version history](#Version-history)
-
-[10.0 - Software status](#Software-status)
-
-[11.0 - Sponsor info](#Sponsor-info)
-
-[12.0 - Contributers](#Contributers)
-
-[13.0 - Issues](#Issues)
-
-> [13.1 - Current issues](#Current-issues)
-
-> [13.2 - Past issues](#Past-issues)
-
-> [13.3 - Past pull requests](#Past-pull-requests)
-
-> [13.4 - Active pull requests](#Active-pull-requests)
-
-[14.0 - Resources](#Resources)
-
-[15.0 - Contributing](#Contributing)
-
-[16.0 - About README](#About-README)
-
-[17.0 - README Version history](#README-version-history)
-
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [18.9 - End of file](#EOF)
+</details>
 
 ***
 
-# <repoName>
-<repo_description>
+## File history
 
-***
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
-## About
+<details><summary><p lang="en"><b>Version 1 (2022, Saturday, July 30th at 3:32 pm PST)</b></p></summary>
 
-See above. <extendedRepoDescription>
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-***
+**Based on:** [FirefoxVersionHistoryTranslated_V2.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V2.hs)
 
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## History
-
-Write about this projects history here.
-
-### Pre-history
-
-No pre-history to show for this project.
-
-### Alpha history
-
-No Alpha history to show for this project.
-
-### Beta history
-
-No Beta history to show for this project.
-
-### Modern history
-
-No Modern history to show for this project.
-
-***
-
-## Copying
-
-View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
-
-Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
-
-***
-
-## Credits
-
-View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
-
-***
-
-## Installation
-
-View the installation instructions file for this project [here](/INSTALL)
-
-Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](/SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](/DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label/)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
-
-***
-
-## About README
-
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
-
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
-
-**Line count (including blank lines and compiler line):** `0,407`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+**View this version separately:** [`README_V1.md`](/OldVersions/README/English/1/README_V1.md)
 
 > Changes:
 
-> * Started the file
+- [x] Started the file
+- [x] Added the `title` section
+- [x] Added the `context` section
+- [x] Added the `Firefox 5-10` section
+- [x] Added the `Firefox 11-22` section
+- [x] Added the `Firefox 23-28` section
+- [x] Added the `Firefox 29-46` section
+- [x] Added the `Firefox 47-56` section
+- [x] Added the `Firefox 57-69` section
+- [x] Added the `Firefox 70-88` section
+- [x] Added the `Firefox 89-103` section
+- [x] Added the `file info` section
+- [x] Added the `file history` section
+- [ ] No other changes in version 1
 
-> * Added the title section
+</details>
 
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION 5**
-
-> * Updated the title section
-
-> * Updated the index
-
-> * Added the history section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-**ITERATION 6**
-
-> * Updated the title section
-
-> * Fixed and update template links
-
-> * Updated the index
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the installation section
-
-> * Updated the resources section
-
-> * Updated the contributors section
-
-> * Added the technical notes section
-
-> * Updated the footer
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
-
-### EOF
+</details>
 
 ***
