@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A proposed fix to the Firefox version numbering system used since Firefox 5.0. Not expected to be publicly implemented, but as a guide to users for a cleaner numbering system.
