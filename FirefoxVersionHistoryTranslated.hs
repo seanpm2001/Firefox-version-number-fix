@@ -3,11 +3,11 @@
 -- Firefox 5-10 : 4.0, 4.1, 4.1.1, 4.1, etc (first full non-small release set)
 > Firefox 4.0 -> Firefox 4.0
 > Firefox 4.0.1 -> Firefox 4.0.1
-> Firefox 5.0 -> Firefox 4.1.1
-> Firefox 5.0.1 -> Firefox 4.1.2
-> Firefox 6.0 -> Firefox 4.2.1
-> Firefox 6.0.1 -> Firefox 4.2.2
-> Firefox 6.0.2 -> Firefox 4.2.3
+> Firefox 5.0 -> Firefox 4.1.0
+> Firefox 5.0.1 -> Firefox 4.1.1
+> Firefox 6.0 -> Firefox 4.2.0
+> Firefox 6.0.1 -> Firefox 4.2.1
+> Firefox 6.0.2 -> Firefox 4.2.2
 > Firefox 7.0 -> Firefox 4.3.0
 > Firefox 7.0.1 -> Firefox 4.3.1
 > Firefox 8.0 -> Firefox 4.4.0
@@ -481,7 +481,42 @@
 > Firefox 102.5ESR -> Firefox 11.13.6ESR
 > Firefox 102.6ESR -> Firefox 11.13.7ESR
 > Firefox 103.0 -> Firefox 11.14
--- TODO: Separate Android and iOS support
--- File version: 2 (2022, Saturday, July 30th at 3:15 pm PST)
+> Firefox 103.0.1 -> Firefox 11.14.1
+-- > Firefox 104.0 -> Firefox 11.15
+-- > Firefox 105.0 -> Firefox 11.16
+-- > Firefox 106.0 -> Firefox 11.17
+-- > Firefox 107.0 -> Firefox 11.18
+-- > Firefox 108.0 -> Firefox 11.19
+-- Firefox for iOS
+> Firefox for iOS 9.0 -> Firefox for iOS 1.0
+> Firefox for iOS 10.0 -> Firefox for iOS 1.1
+> Firefox for iOS 11.0 -> Firefox for iOS 1.2
+> Firefox for iOS 12.0 -> Firefox for iOS 1.3
+> Firefox for iOS 13.0 -> Firefox for iOS 1.4
+> Firefox for iOS 14.0 -> Firefox for iOS 1.5
+> Firefox for iOS 15.0 -> Firefox for iOS 1.6
+> Firefox for iOS 16.0 -> Firefox for iOS 1.7
+> Firefox for iOS 17.0 -> Firefox for iOS 1.8
+> Firefox for iOS 18.0 -> Firefox for iOS 1.8
+> Firefox for iOS 19.0 -> Firefox for iOS 1.9
+> Firefox for iOS 20.0 -> Firefox for iOS 1.10
+> Firefox for iOS 21.0 -> Firefox for iOS 1.11
+> Firefox for iOS 22.0 -> Firefox for iOS 1.12
+> Firefox for iOS 23.0 -> Firefox for iOS 1.13
+> Firefox for iOS 24.0 -> Firefox for iOS 1.14
+> Firefox for iOS 25.0 -> Firefox for iOS 1.15
+> Firefox for iOS 26.0 -> Firefox for iOS 1.16
+> Firefox for iOS 27.0 -> Firefox for iOS 1.17
+> Firefox for iOS 28.0 -> Firefox for iOS 1.18
+> Firefox for iOS 29.0 -> Firefox for iOS 1.19
+> Firefox for iOS 30.0 -> Firefox for iOS 1.20
+> Firefox for iOS 31.0 -> Firefox for iOS 1.21
+> Firefox for iOS 32.0 -> Firefox for iOS 1.22
+> Firefox for iOS 33.0 -> Firefox for iOS 1.23
+> Firefox for iOS 34.0 -> Firefox for iOS 2.0
+-- Firefox for Android
+-- Coming soon
+-- TODO: Separate Android support
+-- File version: 3 (2022, Monday, August 1st at 3:01 pm PST)
 -- File type: Haskell source file (*.hs)
--- Line count (including blank lines and compiler line): 488
+-- Line count (including blank lines and compiler line): 523
