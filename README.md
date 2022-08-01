@@ -17,15 +17,15 @@ _Firefox 5-10 : 4.0, 4.1, 4.1.1, 4.1, etc (first full non-small release set)_
 
 > Firefox 4.0.1 -> Firefox 4.0.1
 
-> Firefox 5.0 -> Firefox 4.1.1
+> Firefox 5.0 -> Firefox 4.1.0
 
-> Firefox 5.0.1 -> Firefox 4.1.2
+> Firefox 5.0.1 -> Firefox 4.1.1
 
-> Firefox 6.0 -> Firefox 4.2.1
+> Firefox 6.0 -> Firefox 4.2.0
 
-> Firefox 6.0.1 -> Firefox 4.2.2
+> Firefox 6.0.1 -> Firefox 4.2.1
 
-> Firefox 6.0.2 -> Firefox 4.2.3
+> Firefox 6.0.2 -> Firefox 4.2.2
 
 > Firefox 7.0 -> Firefox 4.3.0
 
@@ -1015,6 +1015,78 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 
 > Firefox 103.0 -> Firefox 11.14
 
+> Firefox 103.0.1 -> Firefox 11.14.1
+
+<!--
+> Firefox 104.0 -> Firefox 11.15
+
+> Firefox 105.0 -> Firefox 11.16
+
+> Firefox 106.0 -> Firefox 11.17
+
+> Firefox 107.0 -> Firefox 11.18
+
+> Firefox 108.0 -> Firefox 11.19
+!-->
+
+</details>
+
+## Firefox for iOS
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+> Firefox for iOS 9.0 -> Firefox for iOS 1.0
+
+> Firefox for iOS 10.0 -> Firefox for iOS 1.1
+
+> Firefox for iOS 11.0 -> Firefox for iOS 1.2
+
+> Firefox for iOS 12.0 -> Firefox for iOS 1.3
+
+> Firefox for iOS 13.0 -> Firefox for iOS 1.4
+
+> Firefox for iOS 14.0 -> Firefox for iOS 1.5
+
+> Firefox for iOS 15.0 -> Firefox for iOS 1.6
+
+> Firefox for iOS 16.0 -> Firefox for iOS 1.7
+
+> Firefox for iOS 17.0 -> Firefox for iOS 1.8
+
+> Firefox for iOS 18.0 -> Firefox for iOS 1.8
+
+> Firefox for iOS 19.0 -> Firefox for iOS 1.9
+
+> Firefox for iOS 20.0 -> Firefox for iOS 1.10
+
+> Firefox for iOS 21.0 -> Firefox for iOS 1.11
+
+> Firefox for iOS 22.0 -> Firefox for iOS 1.12
+
+> Firefox for iOS 23.0 -> Firefox for iOS 1.13
+
+> Firefox for iOS 24.0 -> Firefox for iOS 1.14
+
+> Firefox for iOS 25.0 -> Firefox for iOS 1.15
+
+> Firefox for iOS 26.0 -> Firefox for iOS 1.16
+
+> Firefox for iOS 27.0 -> Firefox for iOS 1.17
+
+> Firefox for iOS 28.0 -> Firefox for iOS 1.18
+
+> Firefox for iOS 29.0 -> Firefox for iOS 1.19
+
+> Firefox for iOS 30.0 -> Firefox for iOS 1.20
+
+> Firefox for iOS 31.0 -> Firefox for iOS 1.21
+
+> Firefox for iOS 32.0 -> Firefox for iOS 1.22
+
+> Firefox for iOS 33.0 -> Firefox for iOS 1.23
+
+> Firefox for iOS 34.0 -> Firefox for iOS 2.0
+
 </details>
 
 ## TODO
@@ -1022,6 +1094,8 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 - [x] Add ESR support
 - [x] Convert to Markdown
 - [ ] Add separate Android and iOS support
+- - [ ] Android
+- - [x] iOS
 
 ***
 
@@ -1031,9 +1105,9 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Saturday, July 30th at 3:32 pm PST)`
+**File version:** `2 (2022, Monday, August 1st at 3:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,186`
+**Line count (including blank lines and compiler line):** `1,181`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1077,6 +1151,27 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Monday, August 1st at 3:06 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**Based on:** [FirefoxVersionHistoryTranslated_V3.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V3.hs)
+
+**View this version separately:** [`README_V1.md`](/OldVersions/README/English/1/README_V2.md)
+
+> Changes:
+
+- [x] Updated the `Firefox 5-10` section
+- [x] Updated the `Firefox 89-103` section
+- - [x] Added support for Firefox 103.0.1
+- - [x] Began planning support for Firefox 104.0 to Firefox 108.0
+- [x] Added the `Firefox for iOS` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
