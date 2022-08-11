@@ -1017,6 +1017,8 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 
 > Firefox 103.0.1 -> Firefox 11.14.1
 
+> Firefox 103.0.2 -> Firefox 11.14.2
+
 <!--
 > Firefox 104.0 -> Firefox 11.15
 
@@ -1105,9 +1107,9 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Monday, August 1st at 3:06 pm PST)`
+**File version:** `3 (2022, Wednesday, August 10th at 6:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,181`
+**Line count (including blank lines and compiler line):** `1,201`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1172,6 +1174,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Wednesday, August 10th at 6:41 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**Based on:** [FirefoxVersionHistoryTranslated_V4.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V4.hs)
+
+**View this version separately:** [`README_V1.md`](/OldVersions/README/English/1/README_V2.md)
+
+> Changes:
+
+- [x] Updated the `Firefox 89-103` section
+- - [x] Added support for Firefox 103.0.2
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
