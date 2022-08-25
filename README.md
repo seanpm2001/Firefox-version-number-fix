@@ -879,7 +879,7 @@ _10.0, 10.1, 10.2, etc. (improvements, logo change)_
 
 </details>
 
-## Firefox 89-103
+## Firefox 89-104
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -1019,9 +1019,9 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 
 > Firefox 103.0.2 -> Firefox 11.14.2
 
-<!--
 > Firefox 104.0 -> Firefox 11.15
 
+<!--
 > Firefox 105.0 -> Firefox 11.16
 
 > Firefox 106.0 -> Firefox 11.17
@@ -1029,6 +1029,10 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 > Firefox 107.0 -> Firefox 11.18
 
 > Firefox 108.0 -> Firefox 11.19
+
+> Firefox 109.0 -> Firefox 11.20
+
+> Firefox 110.0 -> Firefox 11.21
 !-->
 
 </details>
@@ -1053,6 +1057,9 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 
 > Firefox for iOS 16.0 -> Firefox for iOS 1.7
 
+* There is a jump starting with version 17 to the base Firefox version number sometime in 2019. I can't figure out where it starts or ends.
+
+<!--
 > Firefox for iOS 17.0 -> Firefox for iOS 1.8
 
 > Firefox for iOS 18.0 -> Firefox for iOS 1.8
@@ -1088,6 +1095,9 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 > Firefox for iOS 33.0 -> Firefox for iOS 1.23
 
 > Firefox for iOS 34.0 -> Firefox for iOS 2.0
+!-->
+
+> Firefox for iOS 104.0 -> Unknown
 
 </details>
 
@@ -1107,9 +1117,9 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Wednesday, August 10th at 6:41 pm PST)`
+**File version:** `4 (2022, Wednesday, August 24th at 7:22 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,201`
+**Line count (including blank lines and compiler line):** `1,231`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1162,7 +1172,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **Based on:** [FirefoxVersionHistoryTranslated_V3.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V3.hs)
 
-**View this version separately:** [`README_V1.md`](/OldVersions/README/English/1/README_V2.md)
+**View this version separately:** [`README_V2.md`](/OldVersions/README/English/1/README_V2.md)
 
 > Changes:
 
@@ -1183,7 +1193,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **Based on:** [FirefoxVersionHistoryTranslated_V4.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V4.hs)
 
-**View this version separately:** [`README_V1.md`](/OldVersions/README/English/1/README_V2.md)
+**View this version separately:** [`README_V3.md`](/OldVersions/README/English/1/README_V3.md)
 
 > Changes:
 
@@ -1192,6 +1202,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Wednesday, August 24th at 7:22 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**Based on:** [FirefoxVersionHistoryTranslated_V5.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V5.hs)
+
+**View this version separately:** [`README_V4.md`](/OldVersions/README/English/1/README_V4.md)
+
+> Changes:
+
+- [x] Updated the `Firefox 104-110` section
+- - [x] Added support for Firefox 104
+- [x] Updated the `Firefox for iOS` section
+- - [x] Removed 20+ errors, and added a notice about a version number skip
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 4
 
 </details>
 
