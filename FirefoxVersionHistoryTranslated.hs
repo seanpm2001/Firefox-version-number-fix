@@ -483,11 +483,13 @@
 > Firefox 103.0 -> Firefox 11.14
 > Firefox 103.0.1 -> Firefox 11.14.1
 > Firefox 103.0.2 -> Firefox 11.14.2
--- > Firefox 104.0 -> Firefox 11.15
+> Firefox 104.0 -> Firefox 11.15
 -- > Firefox 105.0 -> Firefox 11.16
 -- > Firefox 106.0 -> Firefox 11.17
 -- > Firefox 107.0 -> Firefox 11.18
 -- > Firefox 108.0 -> Firefox 11.19
+-- > Firefox 109.0 -> Firefox 11.20
+-- > Firefox 110.0 -> Firefox 11.21
 -- Firefox for iOS
 > Firefox for iOS 9.0 -> Firefox for iOS 1.0
 > Firefox for iOS 10.0 -> Firefox for iOS 1.1
@@ -497,6 +499,8 @@
 > Firefox for iOS 14.0 -> Firefox for iOS 1.5
 > Firefox for iOS 15.0 -> Firefox for iOS 1.6
 > Firefox for iOS 16.0 -> Firefox for iOS 1.7
+-- There appears to be a big jump here, but I can't find where it starts/begins
+> Firefox for iOS 104.0 -> Unknown
 > Firefox for iOS 17.0 -> Firefox for iOS 1.8
 > Firefox for iOS 18.0 -> Firefox for iOS 1.8
 > Firefox for iOS 19.0 -> Firefox for iOS 1.9
@@ -518,6 +522,6 @@
 -- Firefox for Android
 -- Coming soon
 -- TODO: Separate Android support
--- File version: 4 (2022, Wednesday, August 10th at 6:35 pm PST)
+-- File version: 5 (2022, Wednesday, August 24th at 7:15 pm PST)
 -- File type: Haskell source file (*.hs)
--- Line count (including blank lines and compiler line): 524
+-- Line count (including blank lines and compiler line): 528
