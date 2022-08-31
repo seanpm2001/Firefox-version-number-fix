@@ -484,6 +484,7 @@
 > Firefox 103.0.1 -> Firefox 11.14.1
 > Firefox 103.0.2 -> Firefox 11.14.2
 > Firefox 104.0 -> Firefox 11.15
+> Firefox 104.0.1 -> Firefox 11.15.1
 -- > Firefox 105.0 -> Firefox 11.16
 -- > Firefox 106.0 -> Firefox 11.17
 -- > Firefox 107.0 -> Firefox 11.18
@@ -522,6 +523,6 @@
 -- Firefox for Android
 -- Coming soon
 -- TODO: Separate Android support
--- File version: 5 (2022, Wednesday, August 24th at 7:15 pm PST)
+-- File version: 6 (2022, Tuesday, August 30th at 9:39 pm PST)
 -- File type: Haskell source file (*.hs)
--- Line count (including blank lines and compiler line): 528
+-- Line count (including blank lines and compiler line): 529
