@@ -415,7 +415,7 @@
 > Firefox 87.0 -> Firefox 10.17
 > Firefox 88.0 -> Firefox 10.18
 > Firefox 88.0.1 -> Firefox 10.18.1
--- Firefox 89-103: 11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, devolvement, deprecations)
+-- Firefox 89-105: 11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, devolvement, deprecations)
 > Firefox 89.0 -> Firefox 11.0
 > Firefox 89.0.1 -> Firefox 11.0.1
 > Firefox 89.0.2 -> Firefox 11.0.2
@@ -486,12 +486,18 @@
 > Firefox 104.0 -> Firefox 11.15
 > Firefox 104.0.1 -> Firefox 11.15.1
 > Firefox 104.0.2 -> Firefox 11.15.2
--- > Firefox 105.0 -> Firefox 11.16
--- > Firefox 106.0 -> Firefox 11.17
--- > Firefox 107.0 -> Firefox 11.18
--- > Firefox 108.0 -> Firefox 11.19
--- > Firefox 109.0 -> Firefox 11.20
--- > Firefox 110.0 -> Firefox 11.21
+> Firefox 105.0 -> Firefox 11.16
+> Firefox 105.0.1 -> Firefox 11.16.1
+> Firefox 105.0.2 -> Firefox 11.16.2
+> Firefox 105.0.3 -> Firefox 11.16.3
+-- Firefox 106-110 12.0, 12.1, 12.2, etc. (Firefox view era, Proton gets worse)
+-- Firefox view is now forced even more so than Pocket. Another tab is added that cannot be removed without risky modifications. Along with the removal of compact mode, there is even less room for tabs now. Firefox also goes through a slow and tedious 4 step prompt every time you open a profile that was updated to >106.x and slows you down for 15 seconds per profile. Although it is a nice touch, it is rather annoying when you have more than 1 profile, or already have 1 or more configured profiles.
+> Firefox 106.0 -> Firefox 12.0
+> Firefox 106.0.1 -> Firefox 12.0.1
+-- > Firefox 107.0 -> Firefox 12.1
+-- > Firefox 108.0 -> Firefox 12.2
+-- > Firefox 109.0 -> Firefox 12.4
+-- > Firefox 110.0 -> Firefox 12.4
 -- Firefox for iOS
 > Firefox for iOS 9.0 -> Firefox for iOS 1.0
 > Firefox for iOS 10.0 -> Firefox for iOS 1.1
@@ -524,6 +530,6 @@
 -- Firefox for Android
 -- Coming soon
 -- TODO: Separate Android support
--- File version: 7 (2022, Wednesday, September 7th at 10:32 pm PST)
+-- File version: 8 (2022, Thursday, October 20th at 7:28 pm PST)
 -- File type: Haskell source file (*.hs)
--- Line count (including blank lines and compiler line): 530
+-- Line count (including blank lines and compiler line): 536
