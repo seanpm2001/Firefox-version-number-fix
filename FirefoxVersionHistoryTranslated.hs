@@ -494,10 +494,18 @@
 -- Firefox view is now forced even more so than Pocket. Another tab is added that cannot be removed without risky modifications. Along with the removal of compact mode, there is even less room for tabs now. Firefox also goes through a slow and tedious 4 step prompt every time you open a profile that was updated to >106.x and slows you down for 15 seconds per profile. Although it is a nice touch, it is rather annoying when you have more than 1 profile, or already have 1 or more configured profiles.
 > Firefox 106.0 -> Firefox 12.0
 > Firefox 106.0.1 -> Firefox 12.0.1
--- > Firefox 107.0 -> Firefox 12.1
--- > Firefox 108.0 -> Firefox 12.2
--- > Firefox 109.0 -> Firefox 12.4
--- > Firefox 110.0 -> Firefox 12.4
+> Firefox 106.0.2 -> Firefox 12.0.2
+> Firefox 106.0.3 -> Firefox 12.0.3
+> Firefox 106.0.4 -> Firefox 12.0.4
+> Firefox 106.0.5 -> Firefox 12.0.5
+-- > Firefox 107.0 -> Firefox ?
+-- > Firefox 108.0 -> Firefox ?
+-- > Firefox 109.0 -> Firefox ?
+-- > Firefox 110.0 -> Firefox ?
+-- > Firefox 111.0 -> Firefox ?
+-- > Firefox 112.0 -> Firefox ?
+-- > Firefox 113.0 -> Firefox ?
+-- > Firefox 114.0 -> Firefox ?
 -- Firefox for iOS
 > Firefox for iOS 9.0 -> Firefox for iOS 1.0
 > Firefox for iOS 10.0 -> Firefox for iOS 1.1
@@ -528,8 +536,9 @@
 > Firefox for iOS 33.0 -> Firefox for iOS 1.23
 > Firefox for iOS 34.0 -> Firefox for iOS 2.0
 -- Firefox for Android
+> Firefox for Android -> Coming Soon
 -- Coming soon
 -- TODO: Separate Android support
--- File version: 8 (2022, Thursday, October 20th at 7:28 pm PST)
+-- File version: 9 (2022, Tuesday, November 15th at 1:01 pm PST)
 -- File type: Haskell source file (*.hs)
--- Line count (including blank lines and compiler line): 536
+-- Line count (including blank lines and compiler line): 545
