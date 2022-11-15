@@ -1041,9 +1041,19 @@ _Firefox 106-110 12.0, 12.1, 12.2, etc. (Firefox View era, Proton gets worse)_
 
 _Firefox view is now forced even more so than Pocket. Another tab is added that cannot be removed without risky modifications. Along with the removal of compact mode, there is even less room for tabs now. Firefox also goes through a slow and tedious 4 step prompt every time you open a profile that was updated to >106.x and slows you down for 15 seconds per profile. Although it is a nice touch, it is rather annoying when you have more than 1 profile, or already have 1 or more configured profiles._
 
+**Self discovery:** _Sometimes (but not always) pressing `ESC` skips the setup prompt_
+
 > Firefox 106.0 -> Firefox 12.0
 
 > Firefox 106.0.1 -> Firefox 12.0.1
+
+> Firefox 106.0.2 -> Firefox 12.0.2
+
+> Firefox 106.0.3 -> Firefox 12.0.3
+
+> Firefox 106.0.4 -> Firefox 12.0.4
+
+> Firefox 106.0.5 -> Firefox 12.0.5
 
 <!--
 
@@ -1140,9 +1150,9 @@ _Firefox view is now forced even more so than Pocket. Another tab is added that 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Thursday, October 20th at 7:39 pm PST)`
+**File version:** `8 (2022, Tuesday, November 15th at 1:08 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,312`
+**Line count (including blank lines and compiler line):** `1,341`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1291,7 +1301,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **Based on:** [FirefoxVersionHistoryTranslated_V8.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V8.hs)
 
-**View this version separately:** [`README_V6.md`](/OldVersions/README/English/1/README_V7.md)
+**View this version separately:** [`README_V7.md`](/OldVersions/README/English/1/README_V7.md)
 
 > Changes:
 
@@ -1303,6 +1313,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p lang="en"><b>Version 8 (2022, Tuesday, November 15th at 1:08 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**Based on:** [FirefoxVersionHistoryTranslated_V9.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V9.hs)
+
+**View this version separately:** [`README_V8.md`](/OldVersions/README/English/1/README_V8.md)
+
+> Changes:
+
+- [x] Added the `Firefox 106-110` section (V12)
+- - [x] Added support for Firefox 106.0.2, 106.0.3, 106.0.4, and 106.0.5
+- [x] Updated the `Todo` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 8
 
 </details>
 
