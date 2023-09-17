@@ -498,14 +498,49 @@
 > Firefox 106.0.3 -> Firefox 12.0.3
 > Firefox 106.0.4 -> Firefox 12.0.4
 > Firefox 106.0.5 -> Firefox 12.0.5
--- > Firefox 107.0 -> Firefox ?
--- > Firefox 108.0 -> Firefox ?
--- > Firefox 109.0 -> Firefox ?
--- > Firefox 110.0 -> Firefox ?
--- > Firefox 111.0 -> Firefox ?
--- > Firefox 112.0 -> Firefox ?
--- > Firefox 113.0 -> Firefox ?
--- > Firefox 114.0 -> Firefox ?
+> Firefox 107.0.0 -> Firefox 12.1.0
+> Firefox 107.0.1 -> Firefox 12.1.1
+> Firefox 108.0.0 -> Firefox 12.2.0
+> Firefox 108.0.1 -> Firefox 12.2.1
+> Firefox 108.0.2 -> Firefox 12.2.2
+> Firefox 109.0.0 -> Firefox 12.3.0
+> Firefox 109.0.1 -> Firefox 12.3.1
+> Firefox 110.0.0 -> Firefox 12.4.0
+> Firefox 110.0.1 -> Firefox 12.4.1
+> Firefox 111.0.0 -> Firefox 12.5.0
+> Firefox 111.0.1 -> Firefox 12.5.1
+> Firefox 112.0.0 -> Firefox 12.6.0
+> Firefox 112.0.1 -> Firefox 12.6.1
+> Firefox 112.0.2 -> Firefox 12.6.2
+-- The easy way of updating this file ends here, the last version of the
+-- Wikipedia article is being used, but Mozilla will be sourced directly
+-- from now on. Last viable edit: 
+-- https://en.wikipedia.org/w/index.php?title=Firefox_version_history&oldid=1152305717&useskin=monobook
+-- It was too bloated, but it was a useful source while it lasted.
+-- Wow, it is kind of easier this way: https://www.mozilla.org/en-US/firefox/releases/
+-- > Firefox ? -> Firefox ?
+> Firefox 113.0.0 -> Firefox 12.7.0
+> Firefox 113.0.1 -> Firefox 12.7.1
+> Firefox 113.0.2 -> Firefox 12.7.2
+> Firefox 114.0.0 -> Firefox 12.8.0
+> Firefox 114.0.1 -> Firefox 12.8.1
+> Firefox 114.0.2 -> Firefox 12.8.2
+> Firefox 114.0.0 -> Firefox 12.9.0
+> Firefox 114.0.1 -> Firefox 12.9.1
+> Firefox 114.0.2 -> Firefox 12.9.2
+> Firefox 114.0.3 -> Firefox 12.9.3
+> Firefox 114.1.0 -> Firefox 12.9.3.1
+> Firefox 114.2.0 -> Firefox 12.9.3.2
+> Firefox 114.2.1 -> Firefox 12.9.3.2.1
+> Firefox 115.0.0 -> Firefox 12.10.0
+> Firefox 115.0.1 -> Firefox 12.10.1
+> Firefox 116.0.0 -> Firefox 12.11.0
+> Firefox 116.0.1 -> Firefox 12.11.1
+> Firefox 116.0.2 -> Firefox 12.11.2
+> Firefox 116.0.3 -> Firefox 12.11.2
+-- Something broke here performance-wise, but I am not going to split just yet
+> Firefox 117.0.0 -> Firefox 12.12.0
+> Firefox 117.0.1 -> Firefox 12.12.1
 -- Firefox for iOS
 > Firefox for iOS 9.0 -> Firefox for iOS 1.0
 > Firefox for iOS 10.0 -> Firefox for iOS 1.1
@@ -539,6 +574,6 @@
 > Firefox for Android -> Coming Soon
 -- Coming soon
 -- TODO: Separate Android support
--- File version: 9 (2022, Tuesday, November 15th at 1:01 pm PST)
+-- File version: 10 (2023, Saturday, September 16th at 10:47 pm PST)
 -- File type: Haskell source file (*.hs)
--- Line count (including blank lines and compiler line): 545
+-- Line count (including blank lines and compiler line): 580
