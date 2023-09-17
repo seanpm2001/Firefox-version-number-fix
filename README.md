@@ -1033,11 +1033,11 @@ _11.0, 11.1, 11.2, etc. (the bad era, proton era, current era, improvements, dev
 
 </details>
 
-## Firefox 106-110
+## Firefox 106-117
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-_Firefox 106-110 12.0, 12.1, 12.2, etc. (Firefox View era, Proton gets worse)_
+_Firefox 106-117 12.0, 12.1, 12.2, etc. (Firefox View era, Proton gets worse)_
 
 _Firefox view is now forced even more so than Pocket. Another tab is added that cannot be removed without risky modifications. Along with the removal of compact mode, there is even less room for tabs now. Firefox also goes through a slow and tedious 4 step prompt every time you open a profile that was updated to >106.x and slows you down for 15 seconds per profile. Although it is a nice touch, it is rather annoying when you have more than 1 profile, or already have 1 or more configured profiles._
 
@@ -1054,6 +1054,87 @@ _Firefox view is now forced even more so than Pocket. Another tab is added that 
 > Firefox 106.0.4 -> Firefox 12.0.4
 
 > Firefox 106.0.5 -> Firefox 12.0.5
+
+> Firefox 107.0.0 -> Firefox 12.1.0
+
+> Firefox 107.0.1 -> Firefox 12.1.1
+
+> Firefox 108.0.0 -> Firefox 12.2.0
+
+> Firefox 108.0.1 -> Firefox 12.2.1
+
+> Firefox 108.0.2 -> Firefox 12.2.2
+
+> Firefox 109.0.0 -> Firefox 12.3.0
+
+> Firefox 109.0.1 -> Firefox 12.3.1
+
+> Firefox 110.0.0 -> Firefox 12.4.0
+
+> Firefox 110.0.1 -> Firefox 12.4.1
+
+> Firefox 111.0.0 -> Firefox 12.5.0
+
+> Firefox 111.0.1 -> Firefox 12.5.1
+
+> Firefox 112.0.0 -> Firefox 12.6.0
+
+> Firefox 112.0.1 -> Firefox 12.6.1
+
+> Firefox 112.0.2 -> Firefox 12.6.2
+
+<!--
+-- The easy way of updating this file ends here, the last version of the
+-- Wikipedia article is being used, but Mozilla will be sourced directly
+-- from now on. Last viable edit: 
+-- https://en.wikipedia.org/w/index.php?title=Firefox_version_history&oldid=1152305717&useskin=monobook
+-- It was too bloated, but it was a useful source while it lasted.
+-- Wow, it is kind of easier this way: https://www.mozilla.org/en-US/firefox/releases/
+!-->
+
+> Firefox 113.0.0 -> Firefox 12.7.0
+
+> Firefox 113.0.1 -> Firefox 12.7.1
+
+> Firefox 113.0.2 -> Firefox 12.7.2
+
+> Firefox 114.0.0 -> Firefox 12.8.0
+
+> Firefox 114.0.1 -> Firefox 12.8.1
+
+> Firefox 114.0.2 -> Firefox 12.8.2
+
+> Firefox 114.0.0 -> Firefox 12.9.0
+
+> Firefox 114.0.1 -> Firefox 12.9.1
+
+> Firefox 114.0.2 -> Firefox 12.9.2
+
+> Firefox 114.0.3 -> Firefox 12.9.3
+
+> Firefox 114.1.0 -> Firefox 12.9.3.1
+
+> Firefox 114.2.0 -> Firefox 12.9.3.2
+
+> Firefox 114.2.1 -> Firefox 12.9.3.2.1
+
+> Firefox 115.0.0 -> Firefox 12.10.0
+
+> Firefox 115.0.1 -> Firefox 12.10.1
+
+> Firefox 116.0.0 -> Firefox 12.11.0
+
+> Firefox 116.0.1 -> Firefox 12.11.1
+
+> Firefox 116.0.2 -> Firefox 12.11.2
+
+> Firefox 116.0.3 -> Firefox 12.11.2
+
+**Something broke here performance-wise (On Linux, CPU and RAM usage went up significantly for a few days) but I am not going to split just yet**
+
+> Firefox 117.0.0 -> Firefox 12.12.0
+
+> Firefox 117.0.1 -> Firefox 12.12.1
 
 <!--
 
@@ -1150,9 +1231,9 @@ _Firefox view is now forced even more so than Pocket. Another tab is added that 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Tuesday, November 15th at 1:08 pm PST)`
+**File version:** `9 (2022, Saturday, September 16th at 10:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,341`
+**Line count (including blank lines and compiler line):** `1,443`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1332,6 +1413,27 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p lang="en"><b>Version 9 (2022, Saturday, September 16th at 10:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**Based on:** [FirefoxVersionHistoryTranslated_V10.hs](/OldVersions/FirefoxVersionHistoryTranslated/1/1-100/FirefoxVersionHistoryTranslated_V10.hs)
+
+**View this version separately:** [`README_V9.md`](/OldVersions/README/English/1/README_V9.md)
+
+> **Note** _This project hasn't been updated in a long time, and needed some maintenance. As of 2020, I found that releases have gotten even faster (4 weeks instead of 6 weeks) and I discovered this like Internet Explorer 6 (almost 3 full years later) which motivated me to update this project._
+
+> Changes:
+
+- [x] Updated the `Firefox 106-110` section (V12)
+- - [x] Renamed to `Firefox 106-117`
+- - [x] Added support for Firefox 107.0 to Firefox 117.0.1
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 9
 
 </details>
 
